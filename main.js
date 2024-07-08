@@ -1,0 +1,2 @@
+const mineflayer = reqire('mineflayer')
+
