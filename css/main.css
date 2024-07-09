@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+#fir {
+    float: right;
+
+}
+#sec {
+    float: left;
+}
+hr{
+    background-color: green;
+    border-color: green;
+}
+
+
