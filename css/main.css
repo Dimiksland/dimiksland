@@ -13,5 +13,8 @@ hr{
     background-color: green;
     border-color: green;
 }
-
+#tg {
+    text-decoration: none;
+    text-color: black;
+}
 
